@@ -6,7 +6,7 @@
 
 def print_hi():
     # Use a breakpoint in the code line below to debug your script.
-    print('Hello World!')  # Press Ctrl+F8 to toggle the breakpoint.
+    print('Hello world!')  # Press Ctrl+F8 to toggle the breakpoint.
     print("Hello from feature")
 
 # Press the green button in the gutter to run the script.
