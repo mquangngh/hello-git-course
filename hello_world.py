@@ -8,6 +8,7 @@ def print_hi():
     # Use a breakpoint in the code line below to debug your script.
     print('Hello World!')  # Press Ctrl+F8 to toggle the breakpoint.
     print("Hello from feature")
+    print("Hello from release")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
